@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test.MoneyTransferTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-22T18:38:48" hostname="DESKTOP-IVBKA0S" time="8.308">
+<testsuite name="test.MoneyTransferTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-22T19:07:24" hostname="DESKTOP-IVBKA0S" time="7.376">
   <properties/>
-  <testcase name="shouldTransferFromFirstToSecond()" classname="test.MoneyTransferTest" time="8.308"/>
+  <testcase name="shouldTransferFromFirstToSecond()" classname="test.MoneyTransferTest" time="7.376"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-авг. 22, 2023 11:38:50 PM org.openqa.selenium.manager.SeleniumManager lambda$runCommand$1
+авг. 23, 2023 12:07:25 AM org.openqa.selenium.manager.SeleniumManager lambda$runCommand$1
 WARNING: The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\Chrom\chromedriver-win64\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (116.0.5845.97); currently, chromedriver 116.0.5845.96 is recommended for chrome 116.*, so it is advised to delete the driver in PATH and retry
-авг. 22, 2023 11:38:53 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+авг. 23, 2023 12:07:28 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
 ]]></system-err>
 </testsuite>
